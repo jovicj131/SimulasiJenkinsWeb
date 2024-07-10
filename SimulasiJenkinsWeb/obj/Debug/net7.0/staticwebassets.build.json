@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nW+va5mBWcLu14sGGbiu4jr/6hKP6J4KvMvLtfBjdq0=",
+  "Source": "SimulasiJenkinsWeb",
+  "BasePath": "_content/SimulasiJenkinsWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
